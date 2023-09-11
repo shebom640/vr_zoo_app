@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "28702677894",
+    "project_id": "vr-zoo",
+    "storage_bucket": "vr-zoo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28702677894:android:65c90ae3043280ce32aa07",
+        "android_client_info": {
+          "package_name": "com.example.vr_zoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28702677894-tfuegmnj9qan45ij8epro8mg04hb9k26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vr_zoo",
+            "certificate_hash": "868c349e6e4de09f4cd54208ec7bc41c74d1e0cd"
+          }
+        },
+        {
+          "client_id": "28702677894-fvlec0ip0qthu4n7gev58coc9npmcfi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0U7xMH9JOR8xo6SYDbUKr92blHeAvDNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28702677894-fvlec0ip0qthu4n7gev58coc9npmcfi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
