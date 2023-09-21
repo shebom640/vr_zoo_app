@@ -79,6 +79,7 @@ flutter:
     - assets/images/googleIcon.jpg
     - assets/models/sample.glb
     - assets/models/3d/crocodile.glb
+    - assets/models/3d/lion.glb
     - assets/models/images/lion.png
     - assets/models/images/cat.png
     - assets/models/images/cheetah.png

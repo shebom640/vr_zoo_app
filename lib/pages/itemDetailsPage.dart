@@ -13,7 +13,7 @@ class ItemDetailsPage extends StatelessWidget {
           Container(
             height: MediaQuery.of(context).size.height * 0.5,
             child: ModelViewer(
-              backgroundColor: Colors.black12,
+              backgroundColor: Colors.white,
               src: items[itemIndex].modelUrl,
               alt: 'A 3D model',
               cameraControls: true,
